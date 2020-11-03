@@ -1,0 +1,9 @@
+Hi, this is my animation project. There are two animations available, snow and rain.
+It relies on HTML Canvas in order to run these animations.
+Most of the code is in the "public" folder.
+
+To Run:
+If you don't have Node installed, you'll need that first
+If you have don't have express installed, then you can run "npm install" at the top level folder
+After the downloads, simply run "node app.js" at the top level folder, and navigate to 
+"http://localhost:3000/" in a browser to see the project.

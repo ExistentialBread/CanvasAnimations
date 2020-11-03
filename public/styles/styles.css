@@ -1,0 +1,17 @@
+.center {
+    margin: auto;
+}
+
+.row{
+    margin-bottom: 10px
+  }
+
+#canvas {
+    display: block; 
+    background-color: black;
+}
+
+#options {
+    margin-bottom: 20px;
+    width:600px;
+}
