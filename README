@@ -7,3 +7,6 @@ If you don't have Node installed, you'll need that first
 If you have don't have express installed, then you can run "npm install" at the top level folder
 After the downloads, simply run "node app.js" at the top level folder, and navigate to 
 "http://localhost:3000/" in a browser to see the project.
+
+Also you can run the code by opening "ezRun/index.html" in the browser.
+
